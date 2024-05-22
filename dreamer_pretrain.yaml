@@ -27,11 +27,11 @@ device: cuda
 save_video: false
 save_train_video: true
 use_tb: true
-use_wandb: true
+use_wandb: false
 
 # experiment
 experiment: pt
-project_name: ???
+project_name: hi
 
 # log settings
 log_every_frames: 1000
